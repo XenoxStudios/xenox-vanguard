@@ -5,17 +5,17 @@ Xenox Vanguard is a continuation of Xenox Bodyguard, a moderation bot for discor
 
 # Features
 ## Moderation
--/kick
--/ban
--/unban
--/mute
--/unmute
+- /kick
+- /ban
+- /unban
+- /mute
+- /unmute
 
 ## Utility
--Reaction/Self Roles
--Autoroles
--Levelling
--Logging
+- Reaction/Self Roles
+- Autoroles
+- Levelling
+- Logging
 
 
 
